@@ -1,11 +1,6 @@
 # AI-SDLC-Governance
 Open-Source AI Governance Frameworks &amp; Compliance SOPs for responsible AI development, risk mitigation, and ethical oversight. Ensuring trust, transparency, and accountability in AI systems.
 
-## **1️⃣ AI-SDLC-Governance**
-**File:** `AI-SDLC-Governance/README.md`
-```markdown
-# AI-SDLC Governance Framework
-
 🚀 **Ensuring Trust, Compliance & Ethical AI Development**
 
 ## 📌 Overview
